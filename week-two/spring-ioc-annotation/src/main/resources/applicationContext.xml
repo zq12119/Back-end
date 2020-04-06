@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- 2. Bean的三种实例化方式 -->
+    <!-- 2.1 无参构造器的方式 -->
+    <bean id="bean1" class="edu.niit.ioc.demo2.Bean1"/>
+
+    <!-- 2.2 静态工厂的方式 -->
+    <bean id="bean2" class="edu.niit.ioc.demo2.Bean2" />
+
+</beans>

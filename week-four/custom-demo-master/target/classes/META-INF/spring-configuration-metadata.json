@@ -1,0 +1,67 @@
+{
+  "groups": [
+    {
+      "name": "swagger",
+      "type": "com.example.restfuldemo.config.SwaggerConfig",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.base-package",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.contact-email",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.contact-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.contact-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.desc",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.group-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.license",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.license-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.terms-of-service-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.title",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    },
+    {
+      "name": "swagger.version",
+      "type": "java.lang.String",
+      "sourceType": "com.example.restfuldemo.config.SwaggerConfig"
+    }
+  ],
+  "hints": []
+}

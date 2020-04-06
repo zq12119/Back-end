@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--配置目标类-->
+    <bean id="customerDao" class="com.example.springapp.demo3.CutomerDao"></bean>
+
+<!--    环绕通知类型-->
+    <bean id="myAroundAdvice" class="com.example.springapp.demo3.MyAroundAdvice"></bean>
+<!--    切点切面需要配置的一个带入切入点的切面-->
+<!--    <bean id="myAdvisor" class="com.example.springapp.support.RegxpMethodPointcutAdvisor"></bean>-->
+
+</beans>
