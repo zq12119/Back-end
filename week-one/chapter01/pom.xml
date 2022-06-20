@@ -28,7 +28,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <kotlin.version>1.0.0</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
     </properties>
 
     <!-- 引入Web场景依赖启动器，引入spring woc的相关依赖-->
